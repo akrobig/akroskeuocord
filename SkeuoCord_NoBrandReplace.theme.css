@@ -22,7 +22,7 @@
 	/*User Avatar Border Values - change all to none to remove avatar borders*/
 	--smallborder_dark: 2px solid rgba(152,152,153); /*default: 2px solid rgba(152,152,153)*/
 	--smallborder_light: 2px solid rgba(82,82,83); /*default: 2px solid rgba(82,82,83)*/
-	--chatborder_dark: 0 0 0 2px rgba(230,230,230,0.6), 0 0 4px 4px rgba(0,0,0,0.5); /*default: 0 0 0 2px rgba(230,230,230,0.6), 0 0 4px 4px rgba(0,0,0,0.5)*/
+	--chatborder_dark: 0 0 0 2px rgba(143, 9, 9,0.6), 0 0 4px 4px rgba(0,0,0,0.5); /*default: 0 0 0 2px rgba(230,230,230,0.6), 0 0 4px 4px rgba(0,0,0,0.5)*/
 	--chatborder_light: 0 0 0 2px rgba(60,60,60,0.8), 0 0 4px 4px rgba(0,0,0,0.27); /*default: 0 0 0 2px rgba(60,60,60,0.8), 0 0 4px 4px rgba(0,0,0,0.27)*/
 	--medborder_dark: 0 0 0 3px rgba(230,230,230,0.6), 0 0 4px 4px rgba(0,0,0,0.6); /*default: 0 0 0 3px rgba(230,230,230,0.6), 0 0 4px 4px rgba(0,0,0,0.6)*/
 	--medborder_light: 0 0 0 3px rgba(60,60,60,0.8), 0 0 4px 4px rgba(0,0,0,0.27); /*default: 0 0 0 3px rgba(60,60,60,0.8), 0 0 4px 4px rgba(0,0,0,0.27)*/
